@@ -1,0 +1,103 @@
+[
+    {
+      "name": "iPhone 14 Pro",
+      "description": "6.1-inch display, A16 Bionic chip, 48MP camera",
+      "price": 999
+    },
+    {
+      "name": "Samsung Galaxy S22",
+      "description": "6.6-inch display, Snapdragon 8 Gen 1, 50MP camera",
+      "price": 899
+    },
+    {
+      "name": "MacBook Pro 14-inch",
+      "description": "M2 Pro chip, 16GB RAM, 1TB SSD",
+      "price": 1999
+    },
+    {
+      "name": "Dell XPS 13",
+      "description": "13.4-inch display, Intel Core i7, 16GB RAM",
+      "price": 1399
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "description": "Wireless noise-canceling headphones",
+      "price": 399
+    },
+    {
+      "name": "AirPods Pro",
+      "description": "Active noise cancellation, spatial audio",
+      "price": 249
+    },
+    {
+      "name": "iPad Air",
+      "description": "10.9-inch display, M1 chip, 64GB storage",
+      "price": 599
+    },
+    {
+      "name": "Google Pixel 7",
+      "description": "6.3-inch display, Google Tensor chip, 50MP camera",
+      "price": 699
+    },
+    {
+      "name": "Logitech MX Master 3",
+      "description": "Wireless mouse with precision scroll",
+      "price": 99
+    },
+    {
+      "name": "Samsung 32-inch Monitor",
+      "description": "4K UHD, 60Hz, HDR10",
+      "price": 299
+    },
+    {
+      "name": "Sony Bravia XR 65-inch",
+      "description": "4K OLED, Google TV, Dolby Vision",
+      "price": 1799
+    },
+    {
+      "name": "HP Envy x360",
+      "description": "15.6-inch display, Intel Core i5, 8GB RAM",
+      "price": 899
+    },
+    {
+      "name": "Apple Watch Series 8",
+      "description": "GPS + Cellular, 41mm case, Blood Oxygen app",
+      "price": 499
+    },
+    {
+      "name": "Nikon Z50",
+      "description": "Mirrorless camera with 20.9MP sensor",
+      "price": 999
+    },
+    {
+      "name": "Bose QuietComfort 45",
+      "description": "Noise-canceling headphones",
+      "price": 329
+    },
+    {
+      "name": "Amazon Echo Dot",
+      "description": "Smart speaker with Alexa",
+      "price": 49
+    },
+    {
+      "name": "Razer BlackWidow V4",
+      "description": "Mechanical gaming keyboard",
+      "price": 149
+    },
+    {
+      "name": "LG UltraGear 27-inch",
+      "description": "144Hz, QHD, 1ms response time",
+      "price": 499
+    },
+    {
+      "name": "GoPro Hero 11",
+      "description": "Waterproof action camera",
+      "price": 499
+    },
+    {
+      "name": "Microsoft Surface Laptop 5",
+      "description": "13.5-inch display, Intel Core i7, 16GB RAM",
+      "price": 1299
+    }
+  ]
+  
