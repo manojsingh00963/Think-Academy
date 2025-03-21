@@ -8,7 +8,6 @@ const JWT_SECRET = process.env.JWT_SECRET;
 const authenticate = (req, res, next) => {
     // Get the user from the JWT token and add id to req object
     const token = req.header('Authorization');
-    console.log(token)
     if (!token) {
         return res.status(401).json({ error: 'Access denied. No token provided.' });
     }
